@@ -1,4 +1,5 @@
 # BIOST 515/518: Homework 3
+#### Instructor:  Amy Willis
 
 ## Instructions
 
