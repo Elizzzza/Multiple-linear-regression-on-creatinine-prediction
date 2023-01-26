@@ -3,7 +3,7 @@
 
 ## Scientific Background 
 
-“MRI dataset”, which contains data from an observational study conducted in the 1990’s to investigate the incidence of cardiovascular (e.g., heart attacks) and cerebrovascular (e.g., strokes) disease and relate these events to lifestyle and other health factors. Adults over 65 years old were randomly selected from Medicare rolls and invited to participate in the study. The dataset and a description of the variables are available under Resouces →Datasets.
+“MRI dataset”, which contains data from an observational study conducted in the 1990’s to investigate the incidence of cardiovascular (e.g., heart attacks) and cerebrovascular (e.g., strokes) disease and relate these events to lifestyle and other health factors. Adults over 65 years old were randomly selected from Medicare rolls and invited to participate in the study. The dataset and a description of the variables are available in the repository.
 
 ## Questions
 1. Body mass index, or BMI, is an easily-calculated estimate of body fat. Research the definition of
