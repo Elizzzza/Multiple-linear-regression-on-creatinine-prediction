@@ -1,36 +1,9 @@
-# BIOST 515/518: Homework 3
+#### BIOST 515/518: Homework 3
 #### Instructor:  Amy Willis
 
-## Instructions
+## Scientific Background 
 
-Submit your responses to the below questions as a single pdf file to Canvas. As in previous homeworks, your
-responses should have two sections:
-
-1. “Responses”, where you respond to the questions, using figures and tables where appropriate.
-2. “Code”, an appendix containing code used to run your analyses and support your responses.
-
-You are welcome to use the homework submission template (Files →Homeworks →submission-template.Rmd)
-to prepare your responses, but this is not mandatory.
-
-Please note that credit will not be given for code and raw software output. Instead, you should use software
-to run analyses and prepare tables, figures, and/or other summaries of results as appropriate.
-
-Please thoughtfully organize your homework and answer in full sentences using professional, scientific writing.
-Tables and numeric information should be appropriate for inclusion in a scientific report, with appropriate
-rounding, and figures should be polished (e.g., with axes labelled and legends included). Please review the
-published homeworks keys for both content and style.
-
-A key purpose of this homework (and all homeworks) is to work on Learning Goal #4: Practice explaining our
-models and their interpretations to both statistical and non-statistical audiences, so please use this opportunity
-to practice communicating clearly and justifying your scientific and statistical work.
-
-## Scientific Background
-
-In Lecture 1 we introduced the “MRI dataset”, which contains data from an observational study conducted
-in the 1990’s to investigate the incidence of cardiovascular (e.g., heart attacks) and cerebrovascular (e.g.,
-strokes) disease and relate these events to lifestyle and other health factors. Adults over 65 years old were
-randomly selected from Medicare rolls and invited to participate in the study. The dataset and a description
-of the variables are available under Resouces →Datasets.
+“MRI dataset”, which contains data from an observational study conducted in the 1990’s to investigate the incidence of cardiovascular (e.g., heart attacks) and cerebrovascular (e.g., strokes) disease and relate these events to lifestyle and other health factors. Adults over 65 years old were randomly selected from Medicare rolls and invited to participate in the study. The dataset and a description of the variables are available under Resouces →Datasets.
 
 ## Questions
 1. Body mass index, or BMI, is an easily-calculated estimate of body fat. Research the definition of
