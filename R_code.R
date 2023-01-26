@@ -1,4 +1,3 @@
-#Q1
 # Make a table of descriptive statistivs with vairables
 
 # load libraries and data
