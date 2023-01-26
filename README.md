@@ -1,3 +1,4 @@
+# Apply multiple linear regression model to predict creatinine level using age, sex, and BMI as predictors
 #### BIOST 515/518: Homework 3
 #### Instructor:  Amy Willis
 
